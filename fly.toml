@@ -18,7 +18,7 @@ primary_region = 'lhr'
   internal_port = 6379
 
 [[services.ports]]
-  handlers = ["http"]
+  handlers = []
   port = 6379
 
 
